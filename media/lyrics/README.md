@@ -1,5 +1,13 @@
 # Video lyrics
 
+## 《我從未停止愛你》 — Chưa Một Ngày Thôi Yêu Em
+
+**王建川 x 老杜**
+
+[Xem hoặc tải video Full HD](./chua-mot-ngay-thoi-yeu-em-lyrics.mp4?raw=true) · [Phụ đề SRT](./chua-mot-ngay-thoi-yeu-em.srt)
+
+Bản Full HD 1920 × 1080, 24 fps, giữ trọn bài hát dài 4 phút 30 giây. Hiển thị nguyên văn 28 dòng lyrics Việt–Trung, căn theo từng câu hát, với nền hồ trăng, sóng nhạc vàng và hiệu ứng nhịp nhạc nhẹ kiểu ballad.
+
 ## 《我還在這裡》 — Tôi vẫn ở đây
 
 **劉毅 x 老杜**
