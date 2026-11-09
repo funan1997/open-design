@@ -1,5 +1,13 @@
 # Video lyrics
 
+## 《一生相伴》 — Một Đời Có Nhau
+
+**劉毅 x 王建川 x 老杜**
+
+[Xem hoặc tải video Full HD](./mot-doi-co-nhau-lyrics.mp4?raw=true) · [Phụ đề SRT](./mot-doi-co-nhau.srt)
+
+Bản Full HD 1920 × 1080, 24 fps, giữ trọn bài hát dài khoảng 5 phút 17 giây. Hiển thị nguyên văn 36 dòng lyrics Việt–Trung, căn theo từng câu hát. Nền hồ sen và hai nhân vật theo ảnh tham chiếu, với lời ở cột trái, sóng nhạc vàng và hiệu ứng nhịp nhẹ kiểu ballad.
+
 ## 《從未離開》 — Chưa Từng Rời Xa
 
 **劉毅 x 王建川 x 老杜**
