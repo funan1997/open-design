@@ -1,5 +1,13 @@
 # Video lyrics
 
+## 《從未離開》 — Chưa Từng Rời Xa
+
+**劉毅 x 王建川 x 老杜**
+
+[Xem hoặc tải video Full HD](./chua-tung-roi-xa-lyrics.mp4?raw=true) · [Phụ đề SRT](./chua-tung-roi-xa.srt)
+
+Bản Full HD 1920 × 1080, 24 fps, giữ trọn bài hát dài khoảng 4 phút 23 giây. Hiển thị nguyên văn 36 dòng lyrics Việt–Trung, căn theo từng câu hát. Nền cưới đỏ vàng theo ảnh tham chiếu, với hai nhân vật ở bên trái, lyrics ở bên phải, sóng nhạc vàng và hiệu ứng nhịp nhẹ kiểu ballad.
+
 ## 《月下雙喜》 — Song Hỷ Dưới Trăng
 
 **劉毅 x 王建川 x 老杜**
