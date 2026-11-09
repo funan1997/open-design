@@ -1,5 +1,13 @@
 # Video lyrics
 
+## 《月下雙喜》 — Song Hỷ Dưới Trăng
+
+**劉毅 x 王建川 x 老杜**
+
+[Xem hoặc tải video Full HD](./song-hy-duoi-trang-lyrics.mp4?raw=true) · [Phụ đề SRT](./song-hy-duoi-trang.srt)
+
+Bản Full HD 1920 × 1080, 24 fps, giữ trọn bài hát dài khoảng 3 phút 40 giây. Hiển thị 34 dòng lyrics Việt–Trung theo bản lời mới nhất, căn theo từng câu hát. Nền đỏ vàng giữ biểu tượng song hỷ và hai nhân vật, với lời ở cột phải, sóng nhạc vàng và hiệu ứng nhịp nhẹ kiểu ballad.
+
 ## 《我從未停止愛你》 — Chưa Một Ngày Thôi Yêu Em
 
 **王建川 x 老杜**
