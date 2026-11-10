@@ -1,5 +1,13 @@
 # Video lyrics
 
+## 《山河為證》 — Sơn Hà Làm Chứng
+
+**劉毅 x 王建川 x 老杜**
+
+[Xem hoặc tải video Full HD](./son-ha-lam-chung-lyrics.mp4?raw=true) · [Phụ đề SRT](./son-ha-lam-chung.srt)
+
+Bản Full HD 1920 × 1080, 24 fps, giữ trọn bài hát dài khoảng 5 phút 05 giây. Hiển thị nguyên văn 44 câu lyrics Việt–Trung, căn theo từng câu hát, với chữ Trung nét đậm. Nền đêm và hai nhân vật theo ảnh tham chiếu; hiệu ứng pháo hoa nhẹ ở vùng trời, lời hát ở cột trái và sóng nhạc vàng.
+
 ## 《一生相伴》 — Một Đời Có Nhau
 
 **劉毅 x 王建川 x 老杜**
