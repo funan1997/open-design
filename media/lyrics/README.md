@@ -1,5 +1,13 @@
 # Video lyrics
 
+## 《我親手毀了明天》 — Tự Tay Đánh Mất Ngày Mai
+
+**王建川 x 老杜**
+
+[Xem hoặc tải video Full HD](./tu-tay-danh-mat-ngay-mai-lyrics.mp4?raw=true) · [Phụ đề SRT](./tu-tay-danh-mat-ngay-mai.srt)
+
+Bản Full HD 1920 × 1080, 24 fps, giữ trọn bài hát dài khoảng 5 phút 12 giây. Hiển thị nguyên văn 40 câu lyrics Việt–Trung, căn theo giọng hát và hai câu nói cuối bài, với chữ Trung nét đậm. Nền chân dung và kính mưa theo ảnh tham chiếu; hạt mưa chuyển động nhẹ ở cột trái, phía sau lời hát, cùng sóng nhạc vàng.
+
 ## 《山河為證》 — Sơn Hà Làm Chứng
 
 **劉毅 x 王建川 x 老杜**
