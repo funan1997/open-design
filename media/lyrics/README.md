@@ -1,5 +1,13 @@
 # Video lyrics
 
+## 《風雨過後・王建川的獨白》 — Tâm Tư Của Lão Vương
+
+**王建川 x 老杜**
+
+[Xem hoặc tải video Full HD](./tam-tu-cua-lao-vuong-lyrics.mp4?raw=true) · [Phụ đề song ngữ SRT](./tam-tu-cua-lao-vuong.srt)
+
+Bản Full HD 1920 × 1080, 24 fps, giữ trọn bài hát dài khoảng 4 phút 28 giây. Hiển thị 46 cặp lyrics: lời Việt nguyên văn ở trên, bản dịch tiếng Trung phồn thể ở dưới, cùng mốc theo giọng hát và lời nói mở đầu. Nền chân dung theo ảnh tham chiếu, với giọt nước trượt nhẹ trên kính ở cột phải, sau lớp chữ; có sóng nhạc vàng.
+
 ## 《我親手毀了明天》 — Tự Tay Đánh Mất Ngày Mai
 
 **王建川 x 老杜**
